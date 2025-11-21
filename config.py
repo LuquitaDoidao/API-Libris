@@ -4,7 +4,7 @@ SECRET_KEY = 'CHAVE-SUPER-SECRETA'  # Chave secreta para criptografia
 DEBUG = True
 # Configurações do banco de dados Firebird
 DB_HOST = 'localhost'
-DB_NAME = r'C:\Users\User\Documents\GitHub\API\BANCO_LIBRIS.FDB'
+DB_NAME = r'C:\Users\User\Documents\GitHub\API-Libris\BANCO_LIBRIS.FDB'
 UPLOAD_FOLDER = os.path.join(os.getcwd(), 'static', 'uploads')
 
 
