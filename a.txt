@@ -1,0 +1,42 @@
+- o filtragem por voto na pagina de pesquisa não funciona. - 
+- todos os main devem ter um pading unico (deve seguir o header)
+- pagina para adicionar as estantes e baners (na pagina config)
+
+- adicionar parametrização
+- separar os valores de parametrização
+- padronizar a fonte de titulos para o responsivo
+- botão para voltar a pagina anterior (em todas as paginas)
+- fazer o index (lening page)
+- adicionar a opção do PDF (de todos eles) na modal do header
+- adicionar "livros do mesmo autor" e "livros do mesmo genero" na pagina Livro-Informa
+- quando clicar em uma tag na pagina livro-informa será enviado a pagina de pesquisa de livro com a tag selecionada
+- adicionar baner
+- adicionar um lugar para ver as multas e poder paga-la
+- permitir a edição do usuario, em editar-usuario, apenas se o usuario for ADM
+- bibliotecários e ADMs podem adicionar usuarios
+
+- melhorar o footer
+- adicionar a reserva de livros (para os que a quantidade de livros é menor que 1)
+- opção de editar as mensagens mandadas por e-mail
+- opção de mudar as posições dos banner e das estantes
+- padronizar um cabeçalho para os PDF
+- pagina de ajuda
+- mostrar as movimentações do livro separadamente
+- adicionar a opção de ver relatório no exel 
+- pesquisa por letras minúsculas e acentuadas
+- limitar o espaço das tags
+- opção sem internet?
+- os adms podem ver gráficos informativos
+- os usuários podem fazer listas de livros publicas 
+- fazer uma tabela (no dbeaver) apenas da posição das estantes, baners e outras coisas.
+- atribuir títulos aos leitores (ex: depois de ele ler 10 livros de romance ganhará o titulo "romântico" e algo personalizado)
+- adicionar TOP DA SEMANA (leitores que mais leram livros ou livros mais retirados)
+- adicionar mais tags 
+- adicionar comentários sobre o livro. desde comentários simples "gostei muito" até comentários com spoiler (podendo censurar ou não) "não gostei que tal personagem morreu"
+- pesquisa sem acento
+
+
+
+
+
+
