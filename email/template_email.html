@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <section class="fundo-colorido" style="
+        background-color: #4562d6;
+        max-height: 100px;
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        ">
+        <h1 class="titulo" style="
+        color: #ffffff;
+        font-weight: bolder;
+        padding: 30px;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        ">{{titulo}}</h1>
+    </section>
+    <section class="fundo-normal" style="
+    background-color: #e6e3e3;
+    position: relative;
+    justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     padding: 10px;">
+
+        <div class="quadro" style="
+            background-color: #fff;
+            box-shadow: #858585a0 0px 5px 15px;
+            border-radius: 15px;
+            padding: 10px;
+            text-align: left;
+            width: 50%;
+            display: block;
+            margin: 0 auto;
+            position: relative;
+            bottom: 70px;">
+
+
+
+            <p>{{corpo | safe }}</p>
+
+            <div class="separa-agradece" style="width: 100%; display: block; margin: 0 auto ;">
+                <p class="agradece" style="margin-top: 20px">Atenciosamente</p>
+                <p>Equipe Biblioteca Libris</p>
+            </div>
+        </div>
+
+
+    </section>
+
+</body>
+
+</html>

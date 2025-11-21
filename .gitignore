@@ -1,0 +1,32 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs e temporários
+*.log
+*.tmp
+*.cache
+
+# Arquivos sensíveis
+.env
+*.env
+.env.*
+
+# Builds
+build/
+dist/
+*.egg-info/
+
+# Coverage
+.coverage
+htmlcov/
